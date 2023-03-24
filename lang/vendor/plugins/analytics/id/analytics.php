@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'avg_duration' => 'Rata-rata Durasi',
+    'bounce_rate' => 'Tingkat Pentalan',
+    'credential_is_not_valid' => 'Kredensial Analytics tidak valid. Dokumennya di sini: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics </a>',
+    'new_users' => 'Pengunjung baru',
+    'page_session' => 'Halaman/Sesi',
+    'pageviews' => 'Tampilan halaman',
+    'percent_new_session' => 'Persen sesi baru',
+    'sessions' => 'Sesi',
+    'settings' => [
+        'description' => 'Kredensial Konfigurasi untuk Google Analytics',
+        'json_credential' => 'Kredensial Akun Layanan',
+        'json_credential_description' => 'Kredensial Akun Layanan',
+        'title' => 'Google Analytics',
+        'tracking_code' => 'ID pelacakan',
+        'tracking_code_placeholder' => 'Contoh: GA-12586526-8',
+        'view_id' => 'Lihat ID',
+        'view_id_description' => 'ID Tampilan Google Analytics',
+    ],
+    'start_date_can_not_before_end_date' => 'Tanggal mulai :start_date tidak boleh setelah tanggal akhir :end_date',
+    'view_id_not_specified' => 'Anda harus memberikan id tampilan yang valid. Dokumennya di sini: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics </a>',
+    'views' => 'melihat',
+    'visitors' => 'Pengunjung',
+    'visits' => 'kunjungan',
+    'widget_analytics_browser' => 'Peramban Teratas',
+    'widget_analytics_general' => 'Analisis Situs',
+    'widget_analytics_page' => 'Halaman Kunjungan Terbanyak',
+    'widget_analytics_referrer' => 'Perujuk Teratas',
+    'wrong_configuration' => 'Untuk melihat analitik, Anda harus mendapatkan ID klien Google Analytics dan menambahkannya ke pengaturan Anda. <br /> Anda juga memerlukan data kredensial JSON. <br /> Dokumennya di sini: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master /plugin-analytics</a>',
+];

@@ -1,0 +1,50 @@
+<?php
+
+return [
+    'current_balance' => 'Saldo saat ini',
+    'email' => [
+        'pending_product_approval_description' => 'Kirim email ke admin saat vendor memposting produknya',
+        'pending_product_approval_title' => 'Menunggu persetujuan produk',
+        'product_approved_description' => 'Kirim email ke vendor saat produk mereka disetujui',
+        'product_approved_title' => 'Produk disetujui',
+        'store_new_order_description' => 'Kirim email ke pemilik toko saat pesanan dilakukan',
+        'store_new_order_title' => 'Pemberitahuan tentang pesanan baru',
+        'vendor_account_approved_description' => 'Kirim email ke vendor saat akun mereka disetujui',
+        'vendor_account_approved_title' => 'Akun vendor disetujui',
+        'verify_vendor_description' => 'Kirim email ke admin saat vendor mendaftar',
+        'verify_vendor_title' => 'Verifikasi vendor',
+        'withdrawal_approved_description' => 'Kirim email ke vendor saat permintaan penarikan mereka disetujui',
+        'withdrawal_approved_title' => 'Penarikan disetujui',
+    ],
+    'helpers' => [
+        'customer_status' => 'Jika Anda mengubah status selain ":status" toko vendor ini juga akan berubah menjadi ":store"',
+        'store_status' => 'Jika Anda mengubah status selain ":status" akun toko ini juga akan berubah menjadi ":customer"',
+    ],
+    'name' => 'Marketplace',
+    'product_name' => 'Nama Produk',
+    'product_url' => 'Produk URL',
+    'settings' => [
+        'allow_vendor_manage_shipping' => 'Izinkan vendor mengelola pengiriman?',
+        'check_valid_signature' => 'Periksa tanda tangan yang valid dalam pendapatan vendor',
+        'enable_product_approval' => 'Aktifkan persetujuan produk',
+        'fee_per_order' => 'Biaya per pesanan (%), saran: 2 atau 3',
+        'fee_withdrawal' => 'Penarikan biaya (Jumlah tetap)',
+        'hide_store_phone_number' => 'Sembunyikan nomor telepon toko?',
+        'name' => 'Pengaturan',
+        'title' => 'Pengaturan untuk marketplace',
+        'verify_vendor' => 'Verifikasi vendor (Vendor hanya dapat memposting daftar produk mereka setelah diverifikasi)',
+    ],
+    'store_email' => 'Email Toko',
+    'store_name' => 'Nama Toko',
+    'store_phone' => 'Telepon Toko',
+    'tables' => [
+        'earnings' => 'Pendapatan',
+        'products_count' => 'Jumlah Produk',
+    ],
+    'theme_options' => [
+        'description' => 'Opsi tema untuk Marketplace',
+        'logo_vendor_dashboard' => 'Logo di dasbor vendor (Bawaan adalah logo utama)',
+        'name' => 'Marketplace',
+    ],
+    'withdrawal_amount' => 'Jumlah penarikan',
+];

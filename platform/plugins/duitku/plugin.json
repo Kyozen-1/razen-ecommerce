@@ -1,0 +1,11 @@
+{
+    "id": "botble/duitku",
+    "name": "Duitku Payment Gateway",
+    "namespace": "Botble\\Duitku\\",
+    "provider": "Botble\\Duitku\\Providers\\DuitkuServiceProvider",
+    "author": "Kyozen",
+    "url": "https://botble.com",
+    "version": "1.0",
+    "description": "Duitku payment gateway integration",
+    "require": ["payment"]
+}

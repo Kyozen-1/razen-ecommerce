@@ -1,0 +1,8 @@
+{
+    "name": "botble/duitku",
+    "description": "Duitku Payment Gateway",
+    "type": "package",
+    "require": {
+        "duitkupg/duitku-php": "dev-master"
+    }
+}

@@ -1,0 +1,1 @@
+<?php echo str_replace('\path.php', '', __FILE__) ?>

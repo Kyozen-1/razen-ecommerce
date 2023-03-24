@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'add_global_option' => 'Tambahkan Opsi Global',
+    'add_new_option' => 'Tambahkan opsi baru',
+    'add_new_row' => 'Tambahkan baris baru',
+    'add_to_cart_value_required' => 'Opsi :value diperlukan',
+    'affect_price_label' => 'Harap isi mempengaruhi harga',
+    'create' => 'Opsi baru',
+    'edit' => 'Opsi edit',
+    'fixed' => 'Tetap',
+    'label' => 'Label',
+    'label_placeholder' => 'Harap isi label',
+    'name' => 'Opsi Produk',
+    'option_name_attribute' => 'Pilihan :key',
+    'option_type' => 'Jenis',
+    'option_type_attribute' => 'Jenis opsi :key',
+    'option_value' => 'Nilai opsi',
+    'option_value_attribute' => 'nilai :item dari :value_key pada opsi #:option_key',
+    'option_value_name_attribute' => 'Nilai opsi :key',
+    'options' => 'Pilihan',
+    'percent' => 'Persen',
+    'please_select_option' => 'Silakan pilih opsi',
+    'price' => 'Harga',
+    'price_type' => 'Jenis Harga',
+    'required' => 'Dibutuhkan?',
+    'select_global_option' => 'Pilih Opsi Global',
+];
